@@ -1,0 +1,1 @@
+dotnet run --project "..\Library Aligner\Library Aligner\Library Aligner.csproj" %1

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Store xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <PathReferenceList>C:\TEMP\</PathReferenceList>
+  <PathFastQToSearch>C:\TEMP\</PathFastQToSearch>
+  <PieceSize>20</PieceSize>
+  <AlignSize>-1</AlignSize>
+  <AttemptJoin>TRUE</AttemptJoin>
+  <JoinRevType>0</JoinRevType>
+  <FailedJoin_UseBestRead>true</FailedJoin_UseBestRead>
+  <QualScoringSkip>true</QualScoringSkip>
+  <Mismatches_Allowed>0</Mismatches_Allowed>
+  <MaxSitesPerAmplicon>3</MaxSitesPerAmplicon>
+  <ReverseComp_IncomingRefSequence>false</ReverseComp_IncomingRefSequence>
+  <MinutesMaxPerIndex>7</MinutesMaxPerIndex>
+  <MinSequencesForParallelAlignment>15000</MinSequencesForParallelAlignment>
+  <MaxSequences>-1</MaxSequences>
+  <Join_RegionSearch>105</Join_RegionSearch>
+  <Join_RegionSearchStep>4</Join_RegionSearchStep>
+  <Join_RegionSearchStart>4</Join_RegionSearchStart>
+  <Join_AttemptMatch_Longest>15</Join_AttemptMatch_Longest>
+  <Join_AttemptMatch_Shortest>12</Join_AttemptMatch_Shortest>
+  <Join_AttemptMatch_Step>3</Join_AttemptMatch_Step>
+  <ExportLocation>false</ExportLocation>
+  <Demux>false</Demux>
+  <NumberOfFastASeq>250</NumberOfFastASeq>
+  <RefTopSeq_NumSeq>25</RefTopSeq_NumSeq>
+  <SplitLargeFiles>false</SplitLargeFiles>
+</Store>
